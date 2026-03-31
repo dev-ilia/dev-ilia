@@ -6,12 +6,12 @@ Currently finishing 11th grade and diving deep into **python** backend systems
 ---
 
 ### 🛠 Tech Stack
-* 🐍 **language:** Python 3.12+ (Asyncio & Pydantic)
-* ⚡ **framework:** FastAPI
-* 🛠 **workflow:** Keeping it simple with terminal and code
-* 🐘 **databases:** PostgreSQL
-* 🔧 **tools:** Docker, Docker Compose, Git
-* 💻 **os:** Arch Linux
+* 🐍 **Language:** Python 3.12+ (Asyncio & Pydantic)
+* ⚡ **Framework:** FastAPI
+* 🛠 **Workflow:** Keeping it simple with terminal and code
+* 🐘 **Databases:** PostgreSQL
+* 🔧 **Tools:** Docker, Docker Compose, Git
+* 💻 **OS:** Arch Linux
 
 ---
 
