@@ -1,6 +1,6 @@
-# hi, i'm ilia 👋
+# Hi, I'm ilia 👋
 
-### 🚀 backend developer in the making
+### 🚀 Backend developer in the making
 Currently finishing 11th grade and diving deep into **python** backend systems
 
 ---
