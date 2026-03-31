@@ -1,26 +1,29 @@
-# hi, i'm ilia 👋
+# Hi, I'm Ilia 👋
 
-### 🚀 backend developer in the making
-currently finishing 11th grade and diving deep into **python** backend systems.
-
----
-
-### 🛠 tech stack
-* 🐍 **language:** python 3.12+ (asyncio & pydantic)
-* ⚡ **framework:** fastapi
-* 🛠 **workflow:** keeping it simple with terminal and code
-* 🐘 **databases:** postgresql
-* 🔧 **tools:** docker, docker compose, git
-* 💻 **os:** arch linux
+### 🚀 Backend Developer in the Making
+Currently finishing 11th grade and diving deep into **Python** backend systems
 
 ---
 
-### 📚 current learning path
-- [ ] terminal foundations (overthewire bandit)
-- [ ] python logic & algorithms (university of helsinki mooc)
-- [ ] test-driven development with fastapi (testdriven.io)
+### 🛠 Tech Stack
+* 🐍 **Language:** Python 3.12+ (Asyncio & Pydantic)
+* ⚡ **Framework:** FastAPI
+* 🛠 **Workflow:** Keeping it simple with terminal and code
+* 🐘 **Databases:** PostgreSQL
+* 🔧 **Tools:** Docker, Docker Compose, Git
+* 💻 **OS:** Arch Linux
 
 ---
 
-### ⚡ fun fact
-automating everything and learning how systems really work
+### 📚 Current Learning Path
+- [ ] Terminal foundations (OverTheWire Bandit)
+- [ ] Python logic & algorithms (University of Helsinki MOOC)
+- [ ] Git & GitHub (Learn Git Branching, Git HowTo)
+- [ ] SQL & Database design (SQLBolt, SQLZoo)
+- [ ] Test-driven development with FastAPI (testdriven.io)
+
+---
+
+### ⚡ Fun Fact
+Automating everything and learning how systems really work
+
