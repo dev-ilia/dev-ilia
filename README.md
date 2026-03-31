@@ -1,11 +1,11 @@
-# Hi, I'm ilia 👋
+# Hi, i'm ilia 👋
 
 ### 🚀 Backend developer in the making
 Currently finishing 11th grade and diving deep into **python** backend systems
 
 ---
 
-### 🛠 tech stack
+### 🛠 Tech stack
 * 🐍 **language:** python 3.12+ (asyncio & pydantic)
 * ⚡ **framework:** fastapi
 * 🛠 **workflow:** keeping it simple with terminal and code
@@ -15,7 +15,7 @@ Currently finishing 11th grade and diving deep into **python** backend systems
 
 ---
 
-### 📚 current learning path
+### 📚 Current learning path
 - [ ] Terminal foundations (OverTheWire Bandit)
 - [ ] Python logic & algorithms (University of Helsinki MOOC)
 - [ ] Git & GitHub (Learn Git Branching, Git HowTo)
